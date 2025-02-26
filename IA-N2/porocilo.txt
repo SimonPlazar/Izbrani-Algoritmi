@@ -1,0 +1,381 @@
+Average time to generate key with 3 bits: 8ms
+Average time to generate key with 4 bits: 8ms
+Average time to generate key with 5 bits: 7ms
+Average time to generate key with 6 bits: 7ms
+Average time to generate key with 7 bits: 8ms
+Average time to generate key with 8 bits: 9ms
+Average time to generate key with 9 bits: 10ms
+Average time to generate key with 10 bits: 11ms
+Average time to generate key with 11 bits: 12ms
+Average time to generate key with 12 bits: 13ms
+Average time to generate key with 13 bits: 15ms
+Average time to generate key with 14 bits: 16ms
+Average time to generate key with 15 bits: 17ms
+
+Average time to encrypt: 528ms and decrypt: 1123 ms for n with 64 bits
+Average time to encrypt: 544ms and decrypt: 1188 ms for n with 66 bits
+Average time to encrypt: 517ms and decrypt: 1195 ms for n with 68 bits
+Average time to encrypt: 850ms and decrypt: 2031 ms for n with 70 bits
+Average time to encrypt: 463ms and decrypt: 1162 ms for n with 72 bits
+Average time to encrypt: 526ms and decrypt: 1387 ms for n with 74 bits
+Average time to encrypt: 550ms and decrypt: 1367 ms for n with 76 bits
+Average time to encrypt: 856ms and decrypt: 2341 ms for n with 78 bits
+Average time to encrypt: 1187ms and decrypt: 3379 ms for n with 80 bits
+Average time to encrypt: 651ms and decrypt: 1753 ms for n with 82 bits
+Average time to encrypt: 673ms and decrypt: 2007 ms for n with 84 bits
+Average time to encrypt: 706ms and decrypt: 2052 ms for n with 86 bits
+Average time to encrypt: 1109ms and decrypt: 3479 ms for n with 88 bits
+Average time to encrypt: 1686ms and decrypt: 5235 ms for n with 90 bits
+Average time to encrypt: 798ms and decrypt: 2401 ms for n with 92 bits
+Average time to encrypt: 799ms and decrypt: 2666 ms for n with 94 bits
+
+
+
+
+
+RAZBIJANJE BIGINT: 8 bajtov, N = 10, K = 3, cas: 34 mikrosekund
+REKONSTRUKCIJA BIGINT: 8 bajtov, N = 10, K = 3, cas: 15 mikrosekund
+RAZBIJANJE BYTE: 8 bajtov, N = 10, K = 3, cas: 252 mikrosekund
+REKONSTRUKCIJA BYTE: 8 bajtov, N = 10, K = 3, cas: 64 mikrosekund
+RAZBIJANJE BIGINT: 8 bajtov, N = 10, K = 5, cas: 27 mikrosekund
+REKONSTRUKCIJA BIGINT: 8 bajtov, N = 10, K = 5, cas: 15 mikrosekund
+RAZBIJANJE BYTE: 8 bajtov, N = 10, K = 5, cas: 216 mikrosekund
+REKONSTRUKCIJA BYTE: 8 bajtov, N = 10, K = 5, cas: 83 mikrosekund
+RAZBIJANJE BIGINT: 8 bajtov, N = 20, K = 3, cas: 43 mikrosekund
+REKONSTRUKCIJA BIGINT: 8 bajtov, N = 20, K = 3, cas: 11 mikrosekund
+RAZBIJANJE BYTE: 8 bajtov, N = 20, K = 3, cas: 368 mikrosekund
+REKONSTRUKCIJA BYTE: 8 bajtov, N = 20, K = 3, cas: 56 mikrosekund
+RAZBIJANJE BIGINT: 8 bajtov, N = 20, K = 5, cas: 92 mikrosekund
+REKONSTRUKCIJA BIGINT: 8 bajtov, N = 20, K = 5, cas: 25 mikrosekund
+RAZBIJANJE BYTE: 8 bajtov, N = 20, K = 5, cas: 715 mikrosekund
+REKONSTRUKCIJA BYTE: 8 bajtov, N = 20, K = 5, cas: 150 mikrosekund
+RAZBIJANJE BIGINT: 8 bajtov, N = 20, K = 10, cas: 153 mikrosekund
+REKONSTRUKCIJA BIGINT: 8 bajtov, N = 20, K = 10, cas: 74 mikrosekund
+RAZBIJANJE BYTE: 8 bajtov, N = 20, K = 10, cas: 1269 mikrosekund
+REKONSTRUKCIJA BYTE: 8 bajtov, N = 20, K = 10, cas: 463 mikrosekund
+RAZBIJANJE BIGINT: 9 bajtov, N = 10, K = 3, cas: 62 mikrosekund
+REKONSTRUKCIJA BIGINT: 9 bajtov, N = 10, K = 3, cas: 62 mikrosekund
+RAZBIJANJE BYTE: 9 bajtov, N = 10, K = 3, cas: 677 mikrosekund
+REKONSTRUKCIJA BYTE: 9 bajtov, N = 10, K = 3, cas: 224 mikrosekund
+RAZBIJANJE BIGINT: 9 bajtov, N = 10, K = 5, cas: 51 mikrosekund
+REKONSTRUKCIJA BIGINT: 9 bajtov, N = 10, K = 5, cas: 31 mikrosekund
+RAZBIJANJE BYTE: 9 bajtov, N = 10, K = 5, cas: 423 mikrosekund
+REKONSTRUKCIJA BYTE: 9 bajtov, N = 10, K = 5, cas: 162 mikrosekund
+RAZBIJANJE BIGINT: 9 bajtov, N = 20, K = 3, cas: 72 mikrosekund
+REKONSTRUKCIJA BIGINT: 9 bajtov, N = 20, K = 3, cas: 23 mikrosekund
+RAZBIJANJE BYTE: 9 bajtov, N = 20, K = 3, cas: 618 mikrosekund
+REKONSTRUKCIJA BYTE: 9 bajtov, N = 20, K = 3, cas: 96 mikrosekund
+RAZBIJANJE BIGINT: 9 bajtov, N = 20, K = 5, cas: 108 mikrosekund
+REKONSTRUKCIJA BIGINT: 9 bajtov, N = 20, K = 5, cas: 30 mikrosekund
+RAZBIJANJE BYTE: 9 bajtov, N = 20, K = 5, cas: 920 mikrosekund
+REKONSTRUKCIJA BYTE: 9 bajtov, N = 20, K = 5, cas: 192 mikrosekund
+RAZBIJANJE BIGINT: 9 bajtov, N = 20, K = 10, cas: 143 mikrosekund
+REKONSTRUKCIJA BIGINT: 9 bajtov, N = 20, K = 10, cas: 67 mikrosekund
+RAZBIJANJE BYTE: 9 bajtov, N = 20, K = 10, cas: 1211 mikrosekund
+REKONSTRUKCIJA BYTE: 9 bajtov, N = 20, K = 10, cas: 484 mikrosekund
+RAZBIJANJE BIGINT: 10 bajtov, N = 10, K = 3, cas: 21 mikrosekund
+REKONSTRUKCIJA BIGINT: 10 bajtov, N = 10, K = 3, cas: 10 mikrosekund
+RAZBIJANJE BYTE: 10 bajtov, N = 10, K = 3, cas: 213 mikrosekund
+REKONSTRUKCIJA BYTE: 10 bajtov, N = 10, K = 3, cas: 50 mikrosekund
+RAZBIJANJE BIGINT: 10 bajtov, N = 10, K = 5, cas: 64 mikrosekund
+REKONSTRUKCIJA BIGINT: 10 bajtov, N = 10, K = 5, cas: 44 mikrosekund
+RAZBIJANJE BYTE: 10 bajtov, N = 10, K = 5, cas: 740 mikrosekund
+REKONSTRUKCIJA BYTE: 10 bajtov, N = 10, K = 5, cas: 303 mikrosekund
+RAZBIJANJE BIGINT: 10 bajtov, N = 20, K = 3, cas: 75 mikrosekund
+REKONSTRUKCIJA BIGINT: 10 bajtov, N = 20, K = 3, cas: 22 mikrosekund
+RAZBIJANJE BYTE: 10 bajtov, N = 20, K = 3, cas: 635 mikrosekund
+REKONSTRUKCIJA BYTE: 10 bajtov, N = 20, K = 3, cas: 135 mikrosekund
+RAZBIJANJE BIGINT: 10 bajtov, N = 20, K = 5, cas: 87 mikrosekund
+REKONSTRUKCIJA BIGINT: 10 bajtov, N = 20, K = 5, cas: 28 mikrosekund
+RAZBIJANJE BYTE: 10 bajtov, N = 20, K = 5, cas: 824 mikrosekund
+REKONSTRUKCIJA BYTE: 10 bajtov, N = 20, K = 5, cas: 189 mikrosekund
+RAZBIJANJE BIGINT: 10 bajtov, N = 20, K = 10, cas: 151 mikrosekund
+REKONSTRUKCIJA BIGINT: 10 bajtov, N = 20, K = 10, cas: 83 mikrosekund
+RAZBIJANJE BYTE: 10 bajtov, N = 20, K = 10, cas: 1432 mikrosekund
+REKONSTRUKCIJA BYTE: 10 bajtov, N = 20, K = 10, cas: 526 mikrosekund
+RAZBIJANJE BIGINT: 11 bajtov, N = 10, K = 3, cas: 40 mikrosekund
+REKONSTRUKCIJA BIGINT: 11 bajtov, N = 10, K = 3, cas: 21 mikrosekund
+RAZBIJANJE BYTE: 11 bajtov, N = 10, K = 3, cas: 426 mikrosekund
+REKONSTRUKCIJA BYTE: 11 bajtov, N = 10, K = 3, cas: 121 mikrosekund
+RAZBIJANJE BIGINT: 11 bajtov, N = 10, K = 5, cas: 35 mikrosekund
+REKONSTRUKCIJA BIGINT: 11 bajtov, N = 10, K = 5, cas: 24 mikrosekund
+RAZBIJANJE BYTE: 11 bajtov, N = 10, K = 5, cas: 374 mikrosekund
+REKONSTRUKCIJA BYTE: 11 bajtov, N = 10, K = 5, cas: 146 mikrosekund
+RAZBIJANJE BIGINT: 11 bajtov, N = 20, K = 3, cas: 69 mikrosekund
+REKONSTRUKCIJA BIGINT: 11 bajtov, N = 20, K = 3, cas: 20 mikrosekund
+RAZBIJANJE BYTE: 11 bajtov, N = 20, K = 3, cas: 6929 mikrosekund
+REKONSTRUKCIJA BYTE: 11 bajtov, N = 20, K = 3, cas: 109 mikrosekund
+RAZBIJANJE BIGINT: 11 bajtov, N = 20, K = 5, cas: 64 mikrosekund
+REKONSTRUKCIJA BIGINT: 11 bajtov, N = 20, K = 5, cas: 23 mikrosekund
+RAZBIJANJE BYTE: 11 bajtov, N = 20, K = 5, cas: 807 mikrosekund
+REKONSTRUKCIJA BYTE: 11 bajtov, N = 20, K = 5, cas: 160 mikrosekund
+RAZBIJANJE BIGINT: 11 bajtov, N = 20, K = 10, cas: 160 mikrosekund
+REKONSTRUKCIJA BIGINT: 11 bajtov, N = 20, K = 10, cas: 90 mikrosekund
+RAZBIJANJE BYTE: 11 bajtov, N = 20, K = 10, cas: 1921 mikrosekund
+REKONSTRUKCIJA BYTE: 11 bajtov, N = 20, K = 10, cas: 732 mikrosekund
+RAZBIJANJE BIGINT: 12 bajtov, N = 10, K = 3, cas: 30 mikrosekund
+REKONSTRUKCIJA BIGINT: 12 bajtov, N = 10, K = 3, cas: 15 mikrosekund
+RAZBIJANJE BYTE: 12 bajtov, N = 10, K = 3, cas: 298 mikrosekund
+REKONSTRUKCIJA BYTE: 12 bajtov, N = 10, K = 3, cas: 73 mikrosekund
+RAZBIJANJE BIGINT: 12 bajtov, N = 10, K = 5, cas: 43 mikrosekund
+REKONSTRUKCIJA BIGINT: 12 bajtov, N = 10, K = 5, cas: 30 mikrosekund
+RAZBIJANJE BYTE: 12 bajtov, N = 10, K = 5, cas: 517 mikrosekund
+REKONSTRUKCIJA BYTE: 12 bajtov, N = 10, K = 5, cas: 218 mikrosekund
+RAZBIJANJE BIGINT: 12 bajtov, N = 20, K = 3, cas: 61 mikrosekund
+REKONSTRUKCIJA BIGINT: 12 bajtov, N = 20, K = 3, cas: 20 mikrosekund
+RAZBIJANJE BYTE: 12 bajtov, N = 20, K = 3, cas: 731 mikrosekund
+REKONSTRUKCIJA BYTE: 12 bajtov, N = 20, K = 3, cas: 98 mikrosekund
+RAZBIJANJE BIGINT: 12 bajtov, N = 20, K = 5, cas: 75 mikrosekund
+REKONSTRUKCIJA BIGINT: 12 bajtov, N = 20, K = 5, cas: 27 mikrosekund
+RAZBIJANJE BYTE: 12 bajtov, N = 20, K = 5, cas: 835 mikrosekund
+REKONSTRUKCIJA BYTE: 12 bajtov, N = 20, K = 5, cas: 280 mikrosekund
+RAZBIJANJE BIGINT: 12 bajtov, N = 20, K = 10, cas: 157 mikrosekund
+REKONSTRUKCIJA BIGINT: 12 bajtov, N = 20, K = 10, cas: 96 mikrosekund
+RAZBIJANJE BYTE: 12 bajtov, N = 20, K = 10, cas: 1794 mikrosekund
+REKONSTRUKCIJA BYTE: 12 bajtov, N = 20, K = 10, cas: 709 mikrosekund
+RAZBIJANJE BIGINT: 13 bajtov, N = 10, K = 3, cas: 27 mikrosekund
+REKONSTRUKCIJA BIGINT: 13 bajtov, N = 10, K = 3, cas: 15 mikrosekund
+RAZBIJANJE BYTE: 13 bajtov, N = 10, K = 3, cas: 344 mikrosekund
+REKONSTRUKCIJA BYTE: 13 bajtov, N = 10, K = 3, cas: 88 mikrosekund
+RAZBIJANJE BIGINT: 13 bajtov, N = 10, K = 5, cas: 33 mikrosekund
+REKONSTRUKCIJA BIGINT: 13 bajtov, N = 10, K = 5, cas: 23 mikrosekund
+RAZBIJANJE BYTE: 13 bajtov, N = 10, K = 5, cas: 431 mikrosekund
+REKONSTRUKCIJA BYTE: 13 bajtov, N = 10, K = 5, cas: 166 mikrosekund
+RAZBIJANJE BIGINT: 13 bajtov, N = 20, K = 3, cas: 61 mikrosekund
+REKONSTRUKCIJA BIGINT: 13 bajtov, N = 20, K = 3, cas: 17 mikrosekund
+RAZBIJANJE BYTE: 13 bajtov, N = 20, K = 3, cas: 800 mikrosekund
+REKONSTRUKCIJA BYTE: 13 bajtov, N = 20, K = 3, cas: 103 mikrosekund
+RAZBIJANJE BIGINT: 13 bajtov, N = 20, K = 5, cas: 97 mikrosekund
+REKONSTRUKCIJA BIGINT: 13 bajtov, N = 20, K = 5, cas: 34 mikrosekund
+RAZBIJANJE BYTE: 13 bajtov, N = 20, K = 5, cas: 1279 mikrosekund
+REKONSTRUKCIJA BYTE: 13 bajtov, N = 20, K = 5, cas: 263 mikrosekund
+RAZBIJANJE BIGINT: 13 bajtov, N = 20, K = 10, cas: 186 mikrosekund
+REKONSTRUKCIJA BIGINT: 13 bajtov, N = 20, K = 10, cas: 110 mikrosekund
+RAZBIJANJE BYTE: 13 bajtov, N = 20, K = 10, cas: 2362 mikrosekund
+REKONSTRUKCIJA BYTE: 13 bajtov, N = 20, K = 10, cas: 843 mikrosekund
+RAZBIJANJE BIGINT: 14 bajtov, N = 10, K = 3, cas: 50 mikrosekund
+REKONSTRUKCIJA BIGINT: 14 bajtov, N = 10, K = 3, cas: 24 mikrosekund
+RAZBIJANJE BYTE: 14 bajtov, N = 10, K = 3, cas: 472 mikrosekund
+REKONSTRUKCIJA BYTE: 14 bajtov, N = 10, K = 3, cas: 120 mikrosekund
+RAZBIJANJE BIGINT: 14 bajtov, N = 10, K = 5, cas: 36 mikrosekund
+REKONSTRUKCIJA BIGINT: 14 bajtov, N = 10, K = 5, cas: 25 mikrosekund
+RAZBIJANJE BYTE: 14 bajtov, N = 10, K = 5, cas: 438 mikrosekund
+REKONSTRUKCIJA BYTE: 14 bajtov, N = 10, K = 5, cas: 196 mikrosekund
+RAZBIJANJE BIGINT: 14 bajtov, N = 20, K = 3, cas: 33 mikrosekund
+REKONSTRUKCIJA BIGINT: 14 bajtov, N = 20, K = 3, cas: 9 mikrosekund
+RAZBIJANJE BYTE: 14 bajtov, N = 20, K = 3, cas: 454 mikrosekund
+REKONSTRUKCIJA BYTE: 14 bajtov, N = 20, K = 3, cas: 60 mikrosekund
+RAZBIJANJE BIGINT: 14 bajtov, N = 20, K = 5, cas: 68 mikrosekund
+REKONSTRUKCIJA BIGINT: 14 bajtov, N = 20, K = 5, cas: 25 mikrosekund
+RAZBIJANJE BYTE: 14 bajtov, N = 20, K = 5, cas: 812 mikrosekund
+REKONSTRUKCIJA BYTE: 14 bajtov, N = 20, K = 5, cas: 166 mikrosekund
+RAZBIJANJE BIGINT: 14 bajtov, N = 20, K = 10, cas: 148 mikrosekund
+REKONSTRUKCIJA BIGINT: 14 bajtov, N = 20, K = 10, cas: 102 mikrosekund
+RAZBIJANJE BYTE: 14 bajtov, N = 20, K = 10, cas: 2053 mikrosekund
+REKONSTRUKCIJA BYTE: 14 bajtov, N = 20, K = 10, cas: 733 mikrosekund
+RAZBIJANJE BIGINT: 15 bajtov, N = 10, K = 3, cas: 33 mikrosekund
+REKONSTRUKCIJA BIGINT: 15 bajtov, N = 10, K = 3, cas: 17 mikrosekund
+RAZBIJANJE BYTE: 15 bajtov, N = 10, K = 3, cas: 432 mikrosekund
+REKONSTRUKCIJA BYTE: 15 bajtov, N = 10, K = 3, cas: 119 mikrosekund
+RAZBIJANJE BIGINT: 15 bajtov, N = 10, K = 5, cas: 46 mikrosekund
+REKONSTRUKCIJA BIGINT: 15 bajtov, N = 10, K = 5, cas: 34 mikrosekund
+RAZBIJANJE BYTE: 15 bajtov, N = 10, K = 5, cas: 676 mikrosekund
+REKONSTRUKCIJA BYTE: 15 bajtov, N = 10, K = 5, cas: 268 mikrosekund
+RAZBIJANJE BIGINT: 15 bajtov, N = 20, K = 3, cas: 50 mikrosekund
+REKONSTRUKCIJA BIGINT: 15 bajtov, N = 20, K = 3, cas: 14 mikrosekund
+RAZBIJANJE BYTE: 15 bajtov, N = 20, K = 3, cas: 654 mikrosekund
+REKONSTRUKCIJA BYTE: 15 bajtov, N = 20, K = 3, cas: 90 mikrosekund
+RAZBIJANJE BIGINT: 15 bajtov, N = 20, K = 5, cas: 90 mikrosekund
+REKONSTRUKCIJA BIGINT: 15 bajtov, N = 20, K = 5, cas: 34 mikrosekund
+RAZBIJANJE BYTE: 15 bajtov, N = 20, K = 5, cas: 1300 mikrosekund
+REKONSTRUKCIJA BYTE: 15 bajtov, N = 20, K = 5, cas: 273 mikrosekund
+RAZBIJANJE BIGINT: 15 bajtov, N = 20, K = 10, cas: 108 mikrosekund
+REKONSTRUKCIJA BIGINT: 15 bajtov, N = 20, K = 10, cas: 82 mikrosekund
+RAZBIJANJE BYTE: 15 bajtov, N = 20, K = 10, cas: 1595 mikrosekund
+REKONSTRUKCIJA BYTE: 15 bajtov, N = 20, K = 10, cas: 607 mikrosekund
+RAZBIJANJE BIGINT: 16 bajtov, N = 10, K = 3, cas: 34 mikrosekund
+REKONSTRUKCIJA BIGINT: 16 bajtov, N = 10, K = 3, cas: 19 mikrosekund
+RAZBIJANJE BYTE: 16 bajtov, N = 10, K = 3, cas: 485 mikrosekund
+REKONSTRUKCIJA BYTE: 16 bajtov, N = 10, K = 3, cas: 125 mikrosekund
+RAZBIJANJE BIGINT: 16 bajtov, N = 10, K = 5, cas: 51 mikrosekund
+REKONSTRUKCIJA BIGINT: 16 bajtov, N = 10, K = 5, cas: 51 mikrosekund
+RAZBIJANJE BYTE: 16 bajtov, N = 10, K = 5, cas: 712 mikrosekund
+REKONSTRUKCIJA BYTE: 16 bajtov, N = 10, K = 5, cas: 318 mikrosekund
+RAZBIJANJE BIGINT: 16 bajtov, N = 20, K = 3, cas: 81 mikrosekund
+REKONSTRUKCIJA BIGINT: 16 bajtov, N = 20, K = 3, cas: 29 mikrosekund
+RAZBIJANJE BYTE: 16 bajtov, N = 20, K = 3, cas: 1104 mikrosekund
+REKONSTRUKCIJA BYTE: 16 bajtov, N = 20, K = 3, cas: 144 mikrosekund
+RAZBIJANJE BIGINT: 16 bajtov, N = 20, K = 5, cas: 102 mikrosekund
+REKONSTRUKCIJA BIGINT: 16 bajtov, N = 20, K = 5, cas: 46 mikrosekund
+RAZBIJANJE BYTE: 16 bajtov, N = 20, K = 5, cas: 1566 mikrosekund
+REKONSTRUKCIJA BYTE: 16 bajtov, N = 20, K = 5, cas: 449 mikrosekund
+RAZBIJANJE BIGINT: 16 bajtov, N = 20, K = 10, cas: 151 mikrosekund
+REKONSTRUKCIJA BIGINT: 16 bajtov, N = 20, K = 10, cas: 110 mikrosekund
+RAZBIJANJE BYTE: 16 bajtov, N = 20, K = 10, cas: 2393 mikrosekund
+REKONSTRUKCIJA BYTE: 16 bajtov, N = 20, K = 10, cas: 859 mikrosekund
+RAZBIJANJE BIGINT: 17 bajtov, N = 10, K = 3, cas: 26 mikrosekund
+REKONSTRUKCIJA BIGINT: 17 bajtov, N = 10, K = 3, cas: 15 mikrosekund
+RAZBIJANJE BYTE: 17 bajtov, N = 10, K = 3, cas: 315 mikrosekund
+REKONSTRUKCIJA BYTE: 17 bajtov, N = 10, K = 3, cas: 78 mikrosekund
+RAZBIJANJE BIGINT: 17 bajtov, N = 10, K = 5, cas: 36 mikrosekund
+REKONSTRUKCIJA BIGINT: 17 bajtov, N = 10, K = 5, cas: 32 mikrosekund
+RAZBIJANJE BYTE: 17 bajtov, N = 10, K = 5, cas: 514 mikrosekund
+REKONSTRUKCIJA BYTE: 17 bajtov, N = 10, K = 5, cas: 205 mikrosekund
+RAZBIJANJE BIGINT: 17 bajtov, N = 20, K = 3, cas: 47 mikrosekund
+REKONSTRUKCIJA BIGINT: 17 bajtov, N = 20, K = 3, cas: 21 mikrosekund
+RAZBIJANJE BYTE: 17 bajtov, N = 20, K = 3, cas: 618 mikrosekund
+REKONSTRUKCIJA BYTE: 17 bajtov, N = 20, K = 3, cas: 82 mikrosekund
+RAZBIJANJE BIGINT: 17 bajtov, N = 20, K = 5, cas: 62 mikrosekund
+REKONSTRUKCIJA BIGINT: 17 bajtov, N = 20, K = 5, cas: 31 mikrosekund
+RAZBIJANJE BYTE: 17 bajtov, N = 20, K = 5, cas: 943 mikrosekund
+REKONSTRUKCIJA BYTE: 17 bajtov, N = 20, K = 5, cas: 233 mikrosekund
+RAZBIJANJE BIGINT: 17 bajtov, N = 20, K = 10, cas: 119 mikrosekund
+REKONSTRUKCIJA BIGINT: 17 bajtov, N = 20, K = 10, cas: 94 mikrosekund
+RAZBIJANJE BYTE: 17 bajtov, N = 20, K = 10, cas: 1865 mikrosekund
+REKONSTRUKCIJA BYTE: 17 bajtov, N = 20, K = 10, cas: 716 mikrosekund
+RAZBIJANJE BIGINT: 18 bajtov, N = 10, K = 3, cas: 37 mikrosekund
+REKONSTRUKCIJA BIGINT: 18 bajtov, N = 10, K = 3, cas: 41 mikrosekund
+RAZBIJANJE BYTE: 18 bajtov, N = 10, K = 3, cas: 546 mikrosekund
+REKONSTRUKCIJA BYTE: 18 bajtov, N = 10, K = 3, cas: 135 mikrosekund
+RAZBIJANJE BIGINT: 18 bajtov, N = 10, K = 5, cas: 33 mikrosekund
+REKONSTRUKCIJA BIGINT: 18 bajtov, N = 10, K = 5, cas: 28 mikrosekund
+RAZBIJANJE BYTE: 18 bajtov, N = 10, K = 5, cas: 518 mikrosekund
+REKONSTRUKCIJA BYTE: 18 bajtov, N = 10, K = 5, cas: 204 mikrosekund
+RAZBIJANJE BIGINT: 18 bajtov, N = 20, K = 3, cas: 56 mikrosekund
+REKONSTRUKCIJA BIGINT: 18 bajtov, N = 20, K = 3, cas: 29 mikrosekund
+RAZBIJANJE BYTE: 18 bajtov, N = 20, K = 3, cas: 798 mikrosekund
+REKONSTRUKCIJA BYTE: 18 bajtov, N = 20, K = 3, cas: 104 mikrosekund
+RAZBIJANJE BIGINT: 18 bajtov, N = 20, K = 5, cas: 79 mikrosekund
+REKONSTRUKCIJA BIGINT: 18 bajtov, N = 20, K = 5, cas: 36 mikrosekund
+RAZBIJANJE BYTE: 18 bajtov, N = 20, K = 5, cas: 1212 mikrosekund
+REKONSTRUKCIJA BYTE: 18 bajtov, N = 20, K = 5, cas: 284 mikrosekund
+RAZBIJANJE BIGINT: 18 bajtov, N = 20, K = 10, cas: 137 mikrosekund
+REKONSTRUKCIJA BIGINT: 18 bajtov, N = 20, K = 10, cas: 98 mikrosekund
+RAZBIJANJE BYTE: 18 bajtov, N = 20, K = 10, cas: 2155 mikrosekund
+REKONSTRUKCIJA BYTE: 18 bajtov, N = 20, K = 10, cas: 909 mikrosekund
+RAZBIJANJE BIGINT: 19 bajtov, N = 10, K = 3, cas: 24 mikrosekund
+REKONSTRUKCIJA BIGINT: 19 bajtov, N = 10, K = 3, cas: 17 mikrosekund
+RAZBIJANJE BYTE: 19 bajtov, N = 10, K = 3, cas: 364 mikrosekund
+REKONSTRUKCIJA BYTE: 19 bajtov, N = 10, K = 3, cas: 90 mikrosekund
+RAZBIJANJE BIGINT: 19 bajtov, N = 10, K = 5, cas: 47 mikrosekund
+REKONSTRUKCIJA BIGINT: 19 bajtov, N = 10, K = 5, cas: 38 mikrosekund
+RAZBIJANJE BYTE: 19 bajtov, N = 10, K = 5, cas: 698 mikrosekund
+REKONSTRUKCIJA BYTE: 19 bajtov, N = 10, K = 5, cas: 313 mikrosekund
+RAZBIJANJE BIGINT: 19 bajtov, N = 20, K = 3, cas: 62 mikrosekund
+REKONSTRUKCIJA BIGINT: 19 bajtov, N = 20, K = 3, cas: 30 mikrosekund
+RAZBIJANJE BYTE: 19 bajtov, N = 20, K = 3, cas: 971 mikrosekund
+REKONSTRUKCIJA BYTE: 19 bajtov, N = 20, K = 3, cas: 122 mikrosekund
+RAZBIJANJE BIGINT: 19 bajtov, N = 20, K = 5, cas: 79 mikrosekund
+REKONSTRUKCIJA BIGINT: 19 bajtov, N = 20, K = 5, cas: 36 mikrosekund
+RAZBIJANJE BYTE: 19 bajtov, N = 20, K = 5, cas: 1196 mikrosekund
+REKONSTRUKCIJA BYTE: 19 bajtov, N = 20, K = 5, cas: 283 mikrosekund
+RAZBIJANJE BIGINT: 19 bajtov, N = 20, K = 10, cas: 108 mikrosekund
+REKONSTRUKCIJA BIGINT: 19 bajtov, N = 20, K = 10, cas: 88 mikrosekund
+RAZBIJANJE BYTE: 19 bajtov, N = 20, K = 10, cas: 1950 mikrosekund
+REKONSTRUKCIJA BYTE: 19 bajtov, N = 20, K = 10, cas: 737 mikrosekund
+RAZBIJANJE BIGINT: 20 bajtov, N = 10, K = 3, cas: 21 mikrosekund
+REKONSTRUKCIJA BIGINT: 20 bajtov, N = 10, K = 3, cas: 12 mikrosekund
+RAZBIJANJE BYTE: 20 bajtov, N = 10, K = 3, cas: 334 mikrosekund
+REKONSTRUKCIJA BYTE: 20 bajtov, N = 10, K = 3, cas: 88 mikrosekund
+RAZBIJANJE BIGINT: 20 bajtov, N = 10, K = 5, cas: 29 mikrosekund
+REKONSTRUKCIJA BIGINT: 20 bajtov, N = 10, K = 5, cas: 29 mikrosekund
+RAZBIJANJE BYTE: 20 bajtov, N = 10, K = 5, cas: 506 mikrosekund
+REKONSTRUKCIJA BYTE: 20 bajtov, N = 10, K = 5, cas: 205 mikrosekund
+RAZBIJANJE BIGINT: 20 bajtov, N = 20, K = 3, cas: 38 mikrosekund
+REKONSTRUKCIJA BIGINT: 20 bajtov, N = 20, K = 3, cas: 14 mikrosekund
+RAZBIJANJE BYTE: 20 bajtov, N = 20, K = 3, cas: 624 mikrosekund
+REKONSTRUKCIJA BYTE: 20 bajtov, N = 20, K = 3, cas: 80 mikrosekund
+RAZBIJANJE BIGINT: 20 bajtov, N = 20, K = 5, cas: 59 mikrosekund
+REKONSTRUKCIJA BIGINT: 20 bajtov, N = 20, K = 5, cas: 28 mikrosekund
+RAZBIJANJE BYTE: 20 bajtov, N = 20, K = 5, cas: 1032 mikrosekund
+REKONSTRUKCIJA BYTE: 20 bajtov, N = 20, K = 5, cas: 221 mikrosekund
+RAZBIJANJE BIGINT: 20 bajtov, N = 20, K = 10, cas: 111 mikrosekund
+REKONSTRUKCIJA BIGINT: 20 bajtov, N = 20, K = 10, cas: 98 mikrosekund
+RAZBIJANJE BYTE: 20 bajtov, N = 20, K = 10, cas: 2070 mikrosekund
+REKONSTRUKCIJA BYTE: 20 bajtov, N = 20, K = 10, cas: 810 mikrosekund
+RAZBIJANJE BIGINT: 21 bajtov, N = 10, K = 3, cas: 25 mikrosekund
+REKONSTRUKCIJA BIGINT: 21 bajtov, N = 10, K = 3, cas: 16 mikrosekund
+RAZBIJANJE BYTE: 21 bajtov, N = 10, K = 3, cas: 406 mikrosekund
+REKONSTRUKCIJA BYTE: 21 bajtov, N = 10, K = 3, cas: 98 mikrosekund
+RAZBIJANJE BIGINT: 21 bajtov, N = 10, K = 5, cas: 35 mikrosekund
+REKONSTRUKCIJA BIGINT: 21 bajtov, N = 10, K = 5, cas: 34 mikrosekund
+RAZBIJANJE BYTE: 21 bajtov, N = 10, K = 5, cas: 612 mikrosekund
+REKONSTRUKCIJA BYTE: 21 bajtov, N = 10, K = 5, cas: 253 mikrosekund
+RAZBIJANJE BIGINT: 21 bajtov, N = 20, K = 3, cas: 42 mikrosekund
+REKONSTRUKCIJA BIGINT: 21 bajtov, N = 20, K = 3, cas: 15 mikrosekund
+RAZBIJANJE BYTE: 21 bajtov, N = 20, K = 3, cas: 750 mikrosekund
+REKONSTRUKCIJA BYTE: 21 bajtov, N = 20, K = 3, cas: 104 mikrosekund
+RAZBIJANJE BIGINT: 21 bajtov, N = 20, K = 5, cas: 65 mikrosekund
+REKONSTRUKCIJA BIGINT: 21 bajtov, N = 20, K = 5, cas: 33 mikrosekund
+RAZBIJANJE BYTE: 21 bajtov, N = 20, K = 5, cas: 1201 mikrosekund
+REKONSTRUKCIJA BYTE: 21 bajtov, N = 20, K = 5, cas: 281 mikrosekund
+RAZBIJANJE BIGINT: 21 bajtov, N = 20, K = 10, cas: 123 mikrosekund
+REKONSTRUKCIJA BIGINT: 21 bajtov, N = 20, K = 10, cas: 102 mikrosekund
+RAZBIJANJE BYTE: 21 bajtov, N = 20, K = 10, cas: 2266 mikrosekund
+REKONSTRUKCIJA BYTE: 21 bajtov, N = 20, K = 10, cas: 892 mikrosekund
+RAZBIJANJE BIGINT: 22 bajtov, N = 10, K = 3, cas: 26 mikrosekund
+REKONSTRUKCIJA BIGINT: 22 bajtov, N = 10, K = 3, cas: 17 mikrosekund
+RAZBIJANJE BYTE: 22 bajtov, N = 10, K = 3, cas: 441 mikrosekund
+REKONSTRUKCIJA BYTE: 22 bajtov, N = 10, K = 3, cas: 107 mikrosekund
+RAZBIJANJE BIGINT: 22 bajtov, N = 10, K = 5, cas: 43 mikrosekund
+REKONSTRUKCIJA BIGINT: 22 bajtov, N = 10, K = 5, cas: 43 mikrosekund
+RAZBIJANJE BYTE: 22 bajtov, N = 10, K = 5, cas: 750 mikrosekund
+REKONSTRUKCIJA BYTE: 22 bajtov, N = 10, K = 5, cas: 306 mikrosekund
+RAZBIJANJE BIGINT: 22 bajtov, N = 20, K = 3, cas: 41 mikrosekund
+REKONSTRUKCIJA BIGINT: 22 bajtov, N = 20, K = 3, cas: 14 mikrosekund
+RAZBIJANJE BYTE: 22 bajtov, N = 20, K = 3, cas: 751 mikrosekund
+REKONSTRUKCIJA BYTE: 22 bajtov, N = 20, K = 3, cas: 97 mikrosekund
+RAZBIJANJE BIGINT: 22 bajtov, N = 20, K = 5, cas: 64 mikrosekund
+REKONSTRUKCIJA BIGINT: 22 bajtov, N = 20, K = 5, cas: 30 mikrosekund
+RAZBIJANJE BYTE: 22 bajtov, N = 20, K = 5, cas: 1121 mikrosekund
+REKONSTRUKCIJA BYTE: 22 bajtov, N = 20, K = 5, cas: 250 mikrosekund
+RAZBIJANJE BIGINT: 22 bajtov, N = 20, K = 10, cas: 118 mikrosekund
+REKONSTRUKCIJA BIGINT: 22 bajtov, N = 20, K = 10, cas: 108 mikrosekund
+RAZBIJANJE BYTE: 22 bajtov, N = 20, K = 10, cas: 2315 mikrosekund
+REKONSTRUKCIJA BYTE: 22 bajtov, N = 20, K = 10, cas: 922 mikrosekund
+RAZBIJANJE BIGINT: 23 bajtov, N = 10, K = 3, cas: 26 mikrosekund
+REKONSTRUKCIJA BIGINT: 23 bajtov, N = 10, K = 3, cas: 16 mikrosekund
+RAZBIJANJE BYTE: 23 bajtov, N = 10, K = 3, cas: 447 mikrosekund
+REKONSTRUKCIJA BYTE: 23 bajtov, N = 10, K = 3, cas: 106 mikrosekund
+RAZBIJANJE BIGINT: 23 bajtov, N = 10, K = 5, cas: 34 mikrosekund
+REKONSTRUKCIJA BIGINT: 23 bajtov, N = 10, K = 5, cas: 35 mikrosekund
+RAZBIJANJE BYTE: 23 bajtov, N = 10, K = 5, cas: 705 mikrosekund
+REKONSTRUKCIJA BYTE: 23 bajtov, N = 10, K = 5, cas: 283 mikrosekund
+RAZBIJANJE BIGINT: 23 bajtov, N = 20, K = 3, cas: 51 mikrosekund
+REKONSTRUKCIJA BIGINT: 23 bajtov, N = 20, K = 3, cas: 17 mikrosekund
+RAZBIJANJE BYTE: 23 bajtov, N = 20, K = 3, cas: 987 mikrosekund
+REKONSTRUKCIJA BYTE: 23 bajtov, N = 20, K = 3, cas: 132 mikrosekund
+RAZBIJANJE BIGINT: 23 bajtov, N = 20, K = 5, cas: 73 mikrosekund
+REKONSTRUKCIJA BIGINT: 23 bajtov, N = 20, K = 5, cas: 39 mikrosekund
+RAZBIJANJE BYTE: 23 bajtov, N = 20, K = 5, cas: 1343 mikrosekund
+REKONSTRUKCIJA BYTE: 23 bajtov, N = 20, K = 5, cas: 312 mikrosekund
+RAZBIJANJE BIGINT: 23 bajtov, N = 20, K = 10, cas: 139 mikrosekund
+REKONSTRUKCIJA BIGINT: 23 bajtov, N = 20, K = 10, cas: 135 mikrosekund
+RAZBIJANJE BYTE: 23 bajtov, N = 20, K = 10, cas: 2973 mikrosekund
+REKONSTRUKCIJA BYTE: 23 bajtov, N = 20, K = 10, cas: 1105 mikrosekund
+RAZBIJANJE BIGINT: 24 bajtov, N = 10, K = 3, cas: 31 mikrosekund
+REKONSTRUKCIJA BIGINT: 24 bajtov, N = 10, K = 3, cas: 23 mikrosekund
+RAZBIJANJE BYTE: 24 bajtov, N = 10, K = 3, cas: 597 mikrosekund
+REKONSTRUKCIJA BYTE: 24 bajtov, N = 10, K = 3, cas: 151 mikrosekund
+RAZBIJANJE BIGINT: 24 bajtov, N = 10, K = 5, cas: 30 mikrosekund
+REKONSTRUKCIJA BIGINT: 24 bajtov, N = 10, K = 5, cas: 35 mikrosekund
+RAZBIJANJE BYTE: 24 bajtov, N = 10, K = 5, cas: 653 mikrosekund
+REKONSTRUKCIJA BYTE: 24 bajtov, N = 10, K = 5, cas: 258 mikrosekund
+RAZBIJANJE BIGINT: 24 bajtov, N = 20, K = 3, cas: 46 mikrosekund
+REKONSTRUKCIJA BIGINT: 24 bajtov, N = 20, K = 3, cas: 18 mikrosekund
+RAZBIJANJE BYTE: 24 bajtov, N = 20, K = 3, cas: 839 mikrosekund
+REKONSTRUKCIJA BYTE: 24 bajtov, N = 20, K = 3, cas: 107 mikrosekund
+RAZBIJANJE BIGINT: 24 bajtov, N = 20, K = 5, cas: 65 mikrosekund
+REKONSTRUKCIJA BIGINT: 24 bajtov, N = 20, K = 5, cas: 39 mikrosekund
+RAZBIJANJE BYTE: 24 bajtov, N = 20, K = 5, cas: 1374 mikrosekund
+REKONSTRUKCIJA BYTE: 24 bajtov, N = 20, K = 5, cas: 330 mikrosekund
+RAZBIJANJE BIGINT: 24 bajtov, N = 20, K = 10, cas: 153 mikrosekund
+REKONSTRUKCIJA BIGINT: 24 bajtov, N = 20, K = 10, cas: 131 mikrosekund
+RAZBIJANJE BYTE: 24 bajtov, N = 20, K = 10, cas: 2860 mikrosekund
+REKONSTRUKCIJA BYTE: 24 bajtov, N = 20, K = 10, cas: 1047 mikrosekund
+
+
+Moja implementacija algoritma za rekonstrukcijo se pri manjših vrednostih parametra K včasih zmoti samo za vrednosti ali dve, tudi pri velikih številih.
+S povečevanjem parametra K se napake povečujejo. Večina napak pri rekonstrukciji se je začelo pri K>7. 
+Velikost števila ni imelo bistvenega vpliva na pogostost napak, prav tako parameter N.
+
